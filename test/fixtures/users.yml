@@ -1,4 +1,4 @@
-lukasz:
-  name: Lukasz Targanski
-  email: lukasz.targanski@gmail.com
+marlena:
+  name: marlena
+  email: marlena.orzechowska@ikaevents.pl
   password_digest: <%= User.digest('password') %>
