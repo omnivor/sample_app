@@ -1,0 +1,15 @@
+one:
+  follower: marlena
+  followed: lana
+
+two:
+  follower: marlena
+  followed: malory
+
+three:
+  follower: lana
+  followed: marlena
+
+four:
+  follower: lukasz
+  followed: marlena
